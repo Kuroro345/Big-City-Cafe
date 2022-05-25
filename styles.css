@@ -209,6 +209,9 @@ footer {
     footer {
         padding: 1rem;
         background: #bf930d;
+    }  
+    .showcase p{
+        font-size: 24px;
     }
 }
 

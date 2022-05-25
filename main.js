@@ -3,5 +3,5 @@ document.querySelector(".container").addEventListener("click", () => {
   });
 
 ScrollReveal().reveal('.showcase');
-ScrollReveal().reveal('.containerGrid', { delay: 500 });
-ScrollReveal().reveal('.footer', { delay: 500 });
+ScrollReveal().reveal('.containerGrid', { delay: 400 });
+ScrollReveal().reveal('.footer', { delay: 400 });
